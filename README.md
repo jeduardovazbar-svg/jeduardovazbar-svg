@@ -2,7 +2,7 @@
 He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones en mayúsculas!
 -->
 
-# ¡Hola mundo! 👋 Soy Jesús Eduardo Vázquez Barba
+# I'm Jesús Eduardo Vázquez Barba, below the picture of smartgasses diy, but programming is my thing. 
 
 <p align="center">
   <!-- BANNER PRINCIPAL -->
@@ -35,18 +35,18 @@ Busca logos en simpleicons.org -->
 
 <img align="right" alt="Ilustración de Programador" width="250" src="images/ilustracion_avatar.png" />
 
-Soy un/a apasionado/a **[Tu Rol Actual, ej: Desarrollador Full Stack / Estudiante de IA]** de **[Tu Ciudad/País]**. Me encanta resolver problemas complejos y construir soluciones elegantes que impacten positivamente en la vida de las personas.
+I'm a software developer so happy, that is very important, I think code let us play and at the same time get envolved into a responsability.
 
-*   🔭 Actualmente trabajando en: **[Nombre de tu proyecto principal o 'Proyectos Personales']**
-*   🌱 Aprendiendo constantemente sobre: **[Tecnología nueva que estudias, ej: Rust, Kubernetes]**
-*   👯 Busco colaborar en: Proyectos de **[Código abierto / Apps móviles / Web]**
-*   💬 Pregúntame sobre: **[Tus temas fuertes, ej: React, Python, Arquitectura]**
-*   ⚡ Dato curioso: **[Algo divertido sobre ti, ej: "He corrido 3 maratones" o "Prefiero el modo oscuro siempre"]**
+*   🔭 Nowadays I'm not working at any company
+*   🌱 Constantly learning about: AWS services
+*   👯 Looking for work in Web projects
+*   💬 Ask me about: React, Python, Node, and more...
+*   ⚡ Fun fact: One day I ran a marathon, one very exciting experiencel.
 
 <br clear="both">
 
 
-## 📈 Mis Estadísticas de GitHub
+## 📈 My GitHub graphs
 
 <!-- INSTRUCCIÓN: Estas imágenes son DINÁMICAS. Funcionan solas.
 IMPORTANTE: Debes cambiar 'TU_USUARIO_AQUI' por tu nombre de usuario real de GitHub en las dos URLs de abajo para que muestren TUS datos. -->
