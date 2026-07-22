@@ -50,8 +50,8 @@ I'm a software developer so happy, that is very important, I think code let us p
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de jeduardovazbar-svg" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardovazbar-svg&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados de jeduardovazbar-svg" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeduardovazbar-svg&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
