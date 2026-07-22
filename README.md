@@ -48,16 +48,14 @@ I'm a software developer so happy, that is very important, I think code let us p
 
 ## 📈 My GitHub graphs
 
-<!-- INSTRUCCIÓN: Estas imágenes son DINÁMICAS. Funcionan solas.
-IMPORTANTE: Debes cambiar 'TU_USUARIO_AQUI' por tu nombre de usuario real de GitHub en las dos URLs de abajo para que muestren TUS datos. -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de [Tu Usuario]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardovazbar-svg&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados de [Tu Usuario]" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de jeduardovazbar-svg" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardovazbar-svg&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados de jeduardovazbar-svg" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical" alt="Racha de contribuciones de [Tu Usuario]" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical" alt="Racha de contribuciones de jeduardovazbar-svg" />
 </p>
 
 ---
