@@ -33,7 +33,7 @@ Busca logos en simpleicons.org -->
 ---
 ## 🚀 Sobre Mí
 
-<img align="right" alt="Ilustración de Programador" width="250" src="images/ilustracion_avatar.png" />
+<img align="right" alt="Ilustración de Programador" width="250" src="pikachu.jpg" />
 
 I'm a software developer so happy, that is very important, I think code let us play and at the same time get envolved into a responsability.
 
@@ -52,12 +52,12 @@ I'm a software developer so happy, that is very important, I think code let us p
 IMPORTANTE: Debes cambiar 'TU_USUARIO_AQUI' por tu nombre de usuario real de GitHub en las dos URLs de abajo para que muestren TUS datos. -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de [Tu Usuario]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados de [Tu Usuario]" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de [Tu Usuario]" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardovazbar-svg&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados de [Tu Usuario]" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical" alt="Racha de contribuciones de [Tu Usuario]" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical" alt="Racha de contribuciones de [Tu Usuario]" />
 </p>
 
 ---
@@ -73,11 +73,11 @@ IMPORTANTE: Debes cambiar 'TU_USUARIO_AQUI' por tu nombre de usuario real de Git
   <a href="https://twitter.com/TU_PERFIL_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a>
-  <a href="mailto:tu.email@ejemplo.com">
+  <a href="mailto:jeduardovazbar@gmail.com">
     <img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <sub>Hecho con ❤️ y Markdown por <a href="https://github.com/TU_USUARIO_AQUI">[Tu Nombre]</a>.</sub>
+  <sub>Hecho con ❤️ y Markdown por <a href="https://github.com/jeduardovazbar-svg">Lalo Vázquez</a>.</sub>
 </p>
