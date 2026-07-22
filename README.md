@@ -2,19 +2,21 @@
 He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones en mayúsculas!
 -->
 
-# I'm Jesús Eduardo Vázquez Barba, below the picture of smartgasses diy, but programming is my thing. 
+# I'm Jesús Eduardo Vázquez Barba <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, programming is my thing. 
 
-<p align="center">
+<!--<p align="center">
   <!-- BANNER PRINCIPAL -->
   <!-- INSTRUCCIÓN: He generado un banner genial abajo. Descárgalo de la respuesta y súbelo a una carpeta 'images' en este repo, o usa una URL externa. Si no tienes una, usa la imagen por defecto que te proporciono aquí (déjala como está). -->
-  <img src="lentes.jpg" alt="Banner de Perfil de Eduardo Vázquez" width="100%">
-</p>
+<!-->  <img src="lentes.jpg" alt="Banner de Perfil de Eduardo Vázquez" width="100%">
+</p>-->
 
 ## 🛠️ Mi Stack Tecnológico
 
 <!-- INSTRUCCIÓN: Estas insignias (badges) son imágenes estáticas. Puedes añadir o quitar usando la sintaxis:
 ![](https://img.shields.io/badge/-NOMBRE_TEC-COLOR?style=for-the-badge&logo=LOGO_TEC&logoColor=white)
 Busca logos en simpleicons.org -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhreW9yMDdhbHQ3bmk5Z2Rjd21ubzBqZ2hodDBnOGwzcDF4cHludSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQ810KMQMmovfb0EVo/giphy.gif" width="30px">
+
 
 ### Lenguajes
 ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,6 +24,7 @@ Busca logos en simpleicons.org -->
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![](img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Frameworks & Herramientas
 ![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
@@ -29,6 +32,7 @@ Busca logos en simpleicons.org -->
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 ## 🚀 Sobre Mí
