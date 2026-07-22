@@ -4,18 +4,14 @@ He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones 
 
 # I'm Jesús Eduardo Vázquez Barba <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, programming is my thing. 
 
-<!--<p align="center">
-  <!-- BANNER PRINCIPAL -->
-  <!-- INSTRUCCIÓN: He generado un banner genial abajo. Descárgalo de la respuesta y súbelo a una carpeta 'images' en este repo, o usa una URL externa. Si no tienes una, usa la imagen por defecto que te proporciono aquí (déjala como está). -->
-<!-->  <img src="lentes.jpg" alt="Banner de Perfil de Eduardo Vázquez" width="100%">
-</p>-->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhpYjB0azV4Z2lwMXhkOGRzMG84ZThxNjA3dXR3djB1YzF3eWluZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif" width="30px">
 
 ## 🛠️ Mi Stack Tecnológico
 
 <!-- INSTRUCCIÓN: Estas insignias (badges) son imágenes estáticas. Puedes añadir o quitar usando la sintaxis:
 ![](https://img.shields.io/badge/-NOMBRE_TEC-COLOR?style=for-the-badge&logo=LOGO_TEC&logoColor=white)
 Busca logos en simpleicons.org -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhreW9yMDdhbHQ3bmk5Z2Rjd21ubzBqZ2hodDBnOGwzcDF4cHludSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQ810KMQMmovfb0EVo/giphy.gif" width="30px">
+
 
 
 ### Lenguajes
