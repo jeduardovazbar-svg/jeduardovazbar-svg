@@ -4,7 +4,7 @@ He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones 
 
 # I'm Jesús Eduardo Vázquez Barba <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, programming is my thing. 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhpYjB0azV4Z2lwMXhkOGRzMG84ZThxNjA3dXR3djB1YzF3eWluZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl5YWIxZW8xYzZnZGJra2E1am52cjlrMXkxZXFxNjI0cWFpOGRiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TdL8y8XeX5VongDcH/giphy.gif" width="100%">
 
 ## 🛠️ Mi Stack Tecnológico
 
