@@ -2,27 +2,13 @@
 He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones en mayúsculas!
 -->
 
-# ¡Hola mundo! 👋 Soy [Tu Nombre Completo]
+# ¡Hola mundo! 👋 Soy Jesús Eduardo Vázquez Barba
 
 <p align="center">
   <!-- BANNER PRINCIPAL -->
   <!-- INSTRUCCIÓN: He generado un banner genial abajo. Descárgalo de la respuesta y súbelo a una carpeta 'images' en este repo, o usa una URL externa. Si no tienes una, usa la imagen por defecto que te proporciono aquí (déjala como está). -->
-  <img src="images/banner_principal.png" alt="Banner de Perfil de [Tu Usuario]" width="100%">
+  <img src="lentes.jpg" alt="Banner de Perfil de Eduardo Vázquez" width="100%">
 </p>
-
-## 🚀 Sobre Mí
-
-<img align="right" alt="Ilustración de Programador" width="250" src="images/ilustracion_avatar.png" />
-
-Soy un/a apasionado/a **[Tu Rol Actual, ej: Desarrollador Full Stack / Estudiante de IA]** de **[Tu Ciudad/País]**. Me encanta resolver problemas complejos y construir soluciones elegantes que impacten positivamente en la vida de las personas.
-
-*   🔭 Actualmente trabajando en: **[Nombre de tu proyecto principal o 'Proyectos Personales']**
-*   🌱 Aprendiendo constantemente sobre: **[Tecnología nueva que estudias, ej: Rust, Kubernetes]**
-*   👯 Busco colaborar en: Proyectos de **[Código abierto / Apps móviles / Web]**
-*   💬 Pregúntame sobre: **[Tus temas fuertes, ej: React, Python, Arquitectura]**
-*   ⚡ Dato curioso: **[Algo divertido sobre ti, ej: "He corrido 3 maratones" o "Prefiero el modo oscuro siempre"]**
-
-<br clear="both">
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -45,6 +31,20 @@ Busca logos en simpleicons.org -->
 ![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🚀 Sobre Mí
+
+<img align="right" alt="Ilustración de Programador" width="250" src="images/ilustracion_avatar.png" />
+
+Soy un/a apasionado/a **[Tu Rol Actual, ej: Desarrollador Full Stack / Estudiante de IA]** de **[Tu Ciudad/País]**. Me encanta resolver problemas complejos y construir soluciones elegantes que impacten positivamente en la vida de las personas.
+
+*   🔭 Actualmente trabajando en: **[Nombre de tu proyecto principal o 'Proyectos Personales']**
+*   🌱 Aprendiendo constantemente sobre: **[Tecnología nueva que estudias, ej: Rust, Kubernetes]**
+*   👯 Busco colaborar en: Proyectos de **[Código abierto / Apps móviles / Web]**
+*   💬 Pregúntame sobre: **[Tus temas fuertes, ej: React, Python, Arquitectura]**
+*   ⚡ Dato curioso: **[Algo divertido sobre ti, ej: "He corrido 3 maratones" o "Prefiero el modo oscuro siempre"]**
+
+<br clear="both">
+
 
 ## 📈 Mis Estadísticas de GitHub
 
