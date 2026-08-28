@@ -1,79 +1,90 @@
-<!-- ESTE ES UN COMENTARIO Y NO SE VERÁ: Puedes borrar estas líneas si quieres. 
-He diseñado este README para que se vea genial. ¡Solo sigue las instrucciones en mayúsculas!
--->
+<div align="center">
 
-# I'm Jesús Eduardo Vázquez Barba <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, programming is my thing. 
+  <h1>Hola, soy Jesús Eduardo Vázquez 👋</h1>
 
-
-## 🛠️ Mi Stack Tecnológico
-
-<!-- INSTRUCCIÓN: Estas insignias (badges) son imágenes estáticas. Puedes añadir o quitar usando la sintaxis:
-![](https://img.shields.io/badge/-NOMBRE_TEC-COLOR?style=for-the-badge&logo=LOGO_TEC&logoColor=white)
-Busca logos en simpleicons.org -->
-
-
-
-### Lenguajes
-![](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### Frameworks & Herramientas
-![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-## 🚀 Sobre Mí
-
-<iframe src="https://giphy.com/embed/xTiJ4cVWew0klLuY96" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NVIDIA-GeForce-jensen-nvidia-rtx-xTiJ4cVWew0klLuY96">via GIPHY</a></p>
-I'm a software developer so happy, that is very important, I think code let us play and at the same time get envolved into a responsability.
-
-*   🔭 Nowadays I'm not working at any company
-*   🌱 Constantly learning about: AWS services
-*   👯 Looking for work in Web projects
-*   💬 Ask me about: React, Python, Node, and more...
-*   ⚡ Fun fact: One day I ran a marathon, one very exciting experiencel.
-
-<br clear="both">
-
-
-## 📈 My GitHub graphs
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeduardovazbar-svg&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical" alt="Racha de contribuciones de jeduardovazbar-svg" />
-</p>
-
----
-
-## 🤝 Conecta Conmigo
-
-<!-- INSTRUCCIÓN: Cambia las URLs por tus perfiles reales. He incluido LinkedIn y Twitter/X. -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=248BE5&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%26+Web+Enthusiast;IoT+%26+Embedded+Tinkerer;Always+Building+%26+Learning" alt="Typing SVG" />
   </a>
-  <a href="https://twitter.com/TU_PERFIL_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+
+  <p>
+    <a href="https://github.com/jeduardovazbar-svg">
+      <img src="https://komarev.com/ghpvc/?username=jeduardovazbar-svg&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 Sobre Mí / About Me
+
+Passionate software developer driven by curiosity and problem-solving. I believe coding allows us to build creative solutions while embracing technical ownership and continuous growth.
+
+- 💼 **Status:** Open to new opportunities & exciting projects
+- 🛠️ **Focus:** Full-Stack Web Development, REST APIs & Embedded Systems
+- 🌱 **Currently exploring:** Cloud Architectures (AWS) & Advanced Backend Patterns
+- 💬 **Ask me about:** Python, JavaScript/TypeScript, Node.js, React, or IoT with ESP32/Arduino
+- ⚡ **Fun Fact:** I once ran a full marathon! 🏃‍♂️💨
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<div align="center">
+
+#### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Frameworks & Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 🗄️ Databases, Cloud & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### 🔌 Hardware & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeduardovazbar-svg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+### 🤝 Conectemos / Get in Touch
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jeduardovazbar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
 
-<p align="center">
-  <sub>Hecho con ❤️ y Markdown por <a href="https://github.com/jeduardovazbar-svg">Lalo Vázquez</a>.</sub>
-</p>
+  <br /><br />
+  <sub>⚡ Diseñado con código, pasión y café.</sub>
+
+</div>
