@@ -32,8 +32,7 @@ Busca logos en simpleicons.org -->
 ---
 ## 🚀 Sobre Mí
 
-<img align="right" alt="Ilustración de Programador" width="250" src="pikachu.jpg" />
-
+<iframe src="https://giphy.com/embed/xTiJ4cVWew0klLuY96" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NVIDIA-GeForce-jensen-nvidia-rtx-xTiJ4cVWew0klLuY96">via GIPHY</a></p>
 I'm a software developer so happy, that is very important, I think code let us play and at the same time get envolved into a responsability.
 
 *   🔭 Nowadays I'm not working at any company
