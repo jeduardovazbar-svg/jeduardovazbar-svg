@@ -73,7 +73,7 @@ Passionate software developer driven by curiosity and problem-solving. I believe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
 </div>
 ---
-
+<img src="lentes.jpg" alt="Projecto lentes" />
 ### 🤝 Conectemos / Get in Touch
 
 <div align="center">
