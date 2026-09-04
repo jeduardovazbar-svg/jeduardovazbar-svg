@@ -1,7 +1,7 @@
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h1>Hola, soy Jesús Eduardo Vázquez 👋</h1>
-
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=248BE5&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%26+Web+Enthusiast;IoT+%26+Embedded+Tinkerer;Always+Building+%26+Learning" alt="Typing SVG" />
   </a>
@@ -59,18 +59,19 @@ Passionate software developer driven by curiosity and problem-solving. I believe
 
 ---
 
-### 📈 GitHub Analytics
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <div align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeduardovazbar-svg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeduardovazbar-svg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 </div>
 
 <div align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeduardovazbar-svg&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
 </div>
-
 ---
 
 ### 🤝 Conectemos / Get in Touch
